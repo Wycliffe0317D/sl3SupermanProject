@@ -2,9 +2,9 @@
 LBYEC4A Final Project of Superman Team
 Creation of Laboratory Manual on Image Convolution Kernel
 
-The authors aim to create an extension of the lessons in LBYEC4A on convolution kernels through the creation of a laboratory manual. The following objectives are set:
-1. To understand how convolution kernels work
-2. To explore different convolution kernels utilized in Image Processing in MATLAB
-3. To differentiate the various convolution kernels and make general observations on convolution kernels
+Demonstration Link: https://youtu.be/5rGFv2GcX38
 
-The final output of the project consists of three parts: (1) a laboratory manual, (2) a solutions guide, and (3) an interactive lesson proper on image convolution kernels.
+Image processing techniques use filters to enhance an image through modifying its contrast, brightness, resolution, and noise level. Image processing is done to transform the image and obtain useful information for various applications like medicine. Although introductory information was given for the course of Signals, Spectra, and Signal Processing Laboratory (LBYEC4A), the authors want to expand the knowledge of the students through creating a laboratory manual and a corresponding solution set to serve as the professor’s guide in checking the exercise proper. The authors were able to accomplish the following objectives: (1) To identify the convolution kernel based on the given description; (2) To describe and observe the difference of each convolution kernel upon application to an image; (3) To compare the 2D and 3D magnitude spectra plot of the convolution kernels and filtered images; and (4) To observe the effects of increasing the dimensions of the matrix for the Gaussian blur kernel. 
+
+Keywords – image processing, convolution kernel, 2D and 3D magnitude spectrum, Gaussian blur 
+
